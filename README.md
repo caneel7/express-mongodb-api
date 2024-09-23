@@ -9,4 +9,6 @@ npm run dev
 
 
 Google Auth Login Flow
-![googleauth drawio](https://github.com/user-attachments/assets/c45fb5a9-1ab1-494d-be43-419dc006334c)
+
+
+![googleauth](https://github.com/user-attachments/assets/9f4ff929-e782-4a4c-9b7e-d9ab010764f9)
